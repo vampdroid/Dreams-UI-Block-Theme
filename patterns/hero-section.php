@@ -48,7 +48,7 @@
 		<div class="wp-block-column" style="flex-basis: 45%">
 			<!-- wp:image {"id":75,"sizeSlug":"large","linkDestination":"none","style":{"border":{"radius":{"topRight":"0px","bottomRight":"0px","bottomLeft":"0px","topLeft":"100px"}}},"className":"is-style-rounded"} -->
 			<figure class="wp-block-image size-large has-custom-border is-style-rounded">
-				<img src="http://localhost:10155/wp-content/uploads/2023/06/atilla-taskiran-I4jC9D7r8Nc-unsplash-683x1024.jpg"
+				<img src="/wp-content/themes/dreams-ui/assets/images/2.jpg"
 					alt="" class="wp-image-75" style="
 					border-top-left-radius: 100px;
 					border-top-right-radius: 0px;

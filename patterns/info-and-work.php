@@ -37,7 +37,7 @@
 			<div class="wp-block-columns"><!-- wp:column -->
 				<div class="wp-block-column"><!-- wp:image {"id":89,"sizeSlug":"large","linkDestination":"none"} -->
 					<figure class="wp-block-image size-large"><img
-							src="http://localhost:10155/wp-content/uploads/2023/06/tomas-jasovsky-d5SZqLkpIrY-unsplash-1-683x1024.jpg"
+							src="/wp-content/themes/dreams-ui/assets/images/9.jpg"
 							alt="" class="wp-image-89" /></figure>
 					<!-- /wp:image -->
 
@@ -50,7 +50,7 @@
 				<!-- wp:column -->
 				<div class="wp-block-column"><!-- wp:image {"id":90,"sizeSlug":"large","linkDestination":"none"} -->
 					<figure class="wp-block-image size-large"><img
-							src="http://localhost:10155/wp-content/uploads/2023/06/becca-tapert-dO3qTKxwik0-unsplash-683x1024.jpg"
+							src="/wp-content/themes/dreams-ui/assets/images/3.jpg"
 							alt="" class="wp-image-90" /></figure>
 					<!-- /wp:image -->
 

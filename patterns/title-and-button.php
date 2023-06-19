@@ -8,11 +8,11 @@
 
 <!-- wp:group {"layout":{"type":"default"}} -->
 <div class="wp-block-group">
-	<!-- wp:cover {"url":"http://localhost:10155/wp-content/uploads/2023/06/brecht-corbeel-NLAYV1zTMVc-unsplash-scaled.jpg","id":127,"dimRatio":50,"minHeight":200} -->
+	<!-- wp:cover {"url":"/wp-content/themes/dreams-ui/assets/images/4.jpg","id":127,"dimRatio":50,"minHeight":200} -->
 	<div class="wp-block-cover" style="min-height:200px"><span aria-hidden="true"
 			class="wp-block-cover__background has-background-dim"></span><img
 			class="wp-block-cover__image-background wp-image-127" alt=""
-			src="http://localhost:10155/wp-content/uploads/2023/06/brecht-corbeel-NLAYV1zTMVc-unsplash-scaled.jpg"
+			src="/wp-content/themes/dreams-ui/assets/images/4.jpg"
 			data-object-fit="cover" />
 		<div class="wp-block-cover__inner-container">
 			<!-- wp:group {"layout":{"type":"constrained","contentSize":"1100px"}} -->

@@ -18,7 +18,7 @@
 	<div class="wp-block-columns"><!-- wp:column -->
 		<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large","linkDestination":"none"} -->
 			<figure class="wp-block-image size-large"><img
-					src="http://localhost:10155/wp-content/uploads/2023/06/erick-palacio-_B9J6abAHPA-unsplash-1024x683.jpg"
+					src="/wp-content/themes/dreams-ui/assets/images/5.jpg"
 					alt="" class="wp-image-120" /></figure>
 			<!-- /wp:image -->
 
@@ -42,7 +42,7 @@
 		<!-- wp:column -->
 		<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large","linkDestination":"none"} -->
 			<figure class="wp-block-image size-large"><img
-					src="http://localhost:10155/wp-content/uploads/2023/06/erick-palacio-_B9J6abAHPA-unsplash-1024x683.jpg"
+            src="/wp-content/themes/dreams-ui/assets/images/5.jpg"
 					alt="" class="wp-image-120" /></figure>
 			<!-- /wp:image -->
 
@@ -66,7 +66,7 @@
 		<!-- wp:column -->
 		<div class="wp-block-column"><!-- wp:image {"id":120,"sizeSlug":"large","linkDestination":"none"} -->
 			<figure class="wp-block-image size-large"><img
-					src="http://localhost:10155/wp-content/uploads/2023/06/erick-palacio-_B9J6abAHPA-unsplash-1024x683.jpg"
+                    src="/wp-content/themes/dreams-ui/assets/images/5.jpg"
 					alt="" class="wp-image-120" /></figure>
 			<!-- /wp:image -->
 

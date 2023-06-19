@@ -60,7 +60,7 @@
 				<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:24px">
 					<!-- wp:image {"id":31,"width":24,"height":24,"sizeSlug":"full","linkDestination":"none","style":{"layout":{"selfStretch":"fixed","flexSize":"24px"}},"className":"is-style-default"} -->
 					<figure class="wp-block-image size-full is-resized is-style-default"><img
-							src="http://localhost:10155/wp-content/uploads/2023/06/Group-3681.png" alt=""
+							src="/wp-content/themes/dreams-ui/assets/svg/user-icon.svg" alt=""
 							class="wp-image-31" width="24" height="24" /></figure>
 					<!-- /wp:image -->
 				</div>
@@ -81,8 +81,8 @@
 				<div class="wp-block-column is-vertically-aligned-center" style="flex-basis:24px">
 					<!-- wp:image {"id":32,"width":24,"height":24,"sizeSlug":"full","linkDestination":"none"} -->
 					<figure class="wp-block-image size-full is-resized"><img
-							src="http://localhost:10155/wp-content/uploads/2023/06/Group-3681-1.png" alt=""
-							class="wp-image-32" width="24" height="24" /></figure>
+							src="/wp-content/themes/dreams-ui/assets/svg/user-icon.svg" alt=""
+							width="24" height="24" class="wp-image-32" /></figure>
 					<!-- /wp:image -->
 				</div>
 				<!-- /wp:column -->
@@ -102,7 +102,7 @@
 				<div class="wp-block-column" style="flex-basis:24px">
 					<!-- wp:image {"id":31,"sizeSlug":"full","linkDestination":"none"} -->
 					<figure class="wp-block-image size-full"><img
-							src="http://localhost:10155/wp-content/uploads/2023/06/Group-3681.png" alt=""
+							src="/wp-content/themes/dreams-ui/assets/svg/user-icon.svg" alt=""
 							class="wp-image-31" /></figure>
 					<!-- /wp:image -->
 				</div>
